@@ -1,0 +1,11 @@
+User,Type,2014,2015,2016,2017,2018
+Pedestrians,Serious,1065,1043,1042,1136,1105
+Pedal cyclists,Serious,864,933,971,1061,1074
+Motor cyclists,Serious,291,338,383,355,470
+All Car users,Serious,5237,4910,4754,4683,4686
+Other road users,Serious,622,616,623,547,676
+Pedestrians,Fatalities,41,31,35,31,42
+Pedal cyclists,Fatalities,13,10,10,14,9
+Motor cyclists,Fatalities,24,22,22,19,15
+All Car users,Fatalities,103,89,106,78,62
+Other road users,Fatalities,11,10,9,13,11
