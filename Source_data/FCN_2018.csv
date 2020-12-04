@@ -1,4 +1,13 @@
-Offence,January,February,March,April,May,June,July,August,September,October,November,December
-Driving_Intoxicated,511,525,639,662,705,705,610,661,696,693,666,691
-Mobile_Phones,1888,2075,2225,3006,3058,2278,2271,2648,3359,3588,2834,1944
-Speeding,8236,7948,8429,11439,12989,11934,12366,12721,12197,13593,11912,12358
+Month,Driving_Intoxicated,Mobile_Phones,Speeding
+January,511,1888,8236
+February,525,2075,7948
+March,639,2225,8429
+April,662,3006,11439
+May,705,3058,12989
+June,705,2278,11934
+July,610,2271,12366
+August,661,2648,12721
+September,696,3359,12197
+October,693,3588,13593
+November,666,2834,11912
+December,691,1944,12358
